@@ -1,5 +1,14 @@
 {
-    "items": [{
+    "items": [
+        {
+            "name": "CV",
+            "link": "/CV/"
+        },
+        {
+            "name": "Transcript",
+            "link": "/Transcript/"
+        },
+        {
             "name": "Portfolio",
             "link": "/portfolio/"
         },
