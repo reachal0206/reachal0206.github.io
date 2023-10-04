@@ -9,12 +9,8 @@
             "link": "https://reachal0206.github.io/docs/transcript.pdf"
         },
         {
-            "name": "Portfolio",
-            "link": "/portfolio/"
-        },
-        {
             "name": "About",
-            "link": "/about/"
+            "link": "/About/"
         }
     ]
 }

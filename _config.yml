@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
+name: reachal
+email: akinada505@gmail.com
 url: url
 description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+author: "reachal"
+title: "Blog"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: /reachal-blog
 
 # social
 github:
-  username: username
+  username: reachal0206
 
 twitter:
   username: username
