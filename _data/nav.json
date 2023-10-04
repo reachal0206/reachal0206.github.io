@@ -2,11 +2,11 @@
     "items": [
         {
             "name": "CV",
-            "link": "/CV/"
+            "link": "https://reachal0206.github.io/docs/cv.pdf"
         },
         {
             "name": "Transcript",
-            "link": "/Transcript/"
+            "link": "https://reachal0206.github.io/docs/transcript.pdf"
         },
         {
             "name": "Portfolio",
